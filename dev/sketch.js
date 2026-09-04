@@ -120,7 +120,7 @@ let attackJustSwung = false;
 
 
 const ENEMY_ATTACK = 8;
-const PLAYER_ATTACK = 30;
+const PLAYER_ATTACK = 2000;
 
 let currentFrameRat = 0;
 const RAT_FRAME_W = 32;
